@@ -1,4 +1,31 @@
-# Getting Started with Create React App
+<div align="center">
+  <img src="/build/static/media/ImageReact.9cd41de1.svg" width="500">
+  <h1>Most popular repos by language!</h1>
+  <a href="https://"><img src="https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel" alt="Vercel"></a>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sobre
+Um projeto feito utilizando a API do github para filtar os repositórios com mais estrelas no site, podendo filtrar eles por linguagem ('All', 'Javascript', 'Python' e 'Ruby').
 
+Realizado com o intuito de fixar conhecimentos tais como:
+  - Utilização de classes
+    - Constructor dentro de classes
+      - Propriedade `super()`
+      - `ComponentWillMount()`
+      - `ComponentWillUnmount()`
+      - `ComponentDidUpdate()`
+    - Manuseio de estados dentro de classes
+  - Construção de componentes
+    - Utilização de componente de Loading
+
+## Imagem
+<div align="center">
+  <img src="img/../src/img/exemplo.gif" alt="Gif da aplicação" />
+</div>
+
+## Autor
+<img src="https://unavatar.now.sh/github/gabrlcj" width="175" />
+
+## [Gabriel Bittencourt Penteado](https://www.linkedin.com/in/gabriel-bittencourt-penteado/)
+
+#### Feito com 🤎 por *Gabriel Bittencourt Penteado*. Entre em contato! 👋🏽
