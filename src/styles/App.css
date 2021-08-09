@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #2d2424;
+  font: 500 1rem monospace;
+  color: #e0c097;
+}
+
+h1 {
+  margin: 1.5rem 0;
+  background: hsla(0, 0%, 0%, 0.063);
+  text-shadow: 2px 2px 2px #121212;
+}
+
+a {
+  color: #61dafb;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
