@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/../src/img/ImageReact.svg" width="500">
+  <img src="img/../src/img/ImageReact.svg" width="400">
   <h1>Most popular repos by language!</h1>
   <p>Check the live demo ⬇️</p><a href="https://popular-repos.vercel.app/"><img src="https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel" alt="Vercel"></a>
 </div>
